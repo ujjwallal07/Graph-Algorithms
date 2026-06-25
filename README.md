@@ -26,23 +26,23 @@
 
 * Package Diagram:
 
-![alt text](https://github.com/ujjwallal07/Graph-Algorithms/tree/main/assets/package_diagram.jpg)
+![alt text](assets/package_diagram.jpg)
 
 * Class Diagram:
 
-![alt text](https://github.com/ujjwallal07/Graph-Algorithms/tree/main/assets/class_diagram.jpg)
+![alt text](assets/class_diagram.jpg)
 
 * State Diagram:
   This is a state diagram of an undirected graph with two nodes and one edge.
   
-![alt text](https://github.com/ujjwallal07/Graph-Algorithms/tree/main/assets/state_diagram.jpg)
+![alt text](assets/state_diagram.jpg)
 
 
 * Activity Diagram:
 
-![alt text](https://github.com/ujjwallal07/Graph-Algorithms/tree/main/assets/Activity_Diagram.jpg)
+![alt text](assets/Activity_Diagram.jpg)
 
 
 * Use Case Diagram:
 
-![alt text](https://github.com/ujjwallal07/Graph-Algorithms/tree/main/assets/Use_Case.jpg)
+![alt text](assets/Use_Case.jpg)
